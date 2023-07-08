@@ -2,7 +2,7 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar os jogos precisa ter o Python 3 intalado
+Para rodar os jogos precisa ter o Python 3 instalado
 
 ```
 npm install python 3
